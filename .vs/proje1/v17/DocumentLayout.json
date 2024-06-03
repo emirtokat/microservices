@@ -1,0 +1,618 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emir_\\source\\repos\\proje1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\adminservice\\adminservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\adminservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\userservice\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|solutionrelative:userservice\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\userservice\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|solutionrelative:userservice\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\userservice\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|solutionrelative:userservice\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|c:\\users\\emir_\\source\\repos\\proje1\\userservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\adminservice\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\adminservice\\repositories\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\repositories\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\adminservice\\services\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\services\\usermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F51F75F-FC54-47A7-885B-1F1D22602787}|TaskService\\TaskService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\taskservice\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F51F75F-FC54-47A7-885B-1F1D22602787}|TaskService\\TaskService.csproj|solutionrelative:taskservice\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F51F75F-FC54-47A7-885B-1F1D22602787}|TaskService\\TaskService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\taskservice\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F51F75F-FC54-47A7-885B-1F1D22602787}|TaskService\\TaskService.csproj|solutionrelative:taskservice\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F51F75F-FC54-47A7-885B-1F1D22602787}|TaskService\\TaskService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\taskservice\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F51F75F-FC54-47A7-885B-1F1D22602787}|TaskService\\TaskService.csproj|solutionrelative:taskservice\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|c:\\users\\emir_\\source\\repos\\proje1\\proje1\\proje1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\proje1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\adminservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\adminservice\\data\\admincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\data\\admincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\adminservice\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\adminservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|c:\\users\\emir_\\source\\repos\\proje1\\adminservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB796770-CD01-437C-9FFA-CD542602BA02}|AdminService\\AdminService.csproj|solutionrelative:adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F51F75F-FC54-47A7-885B-1F1D22602787}|TaskService\\TaskService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\taskservice\\taskservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F51F75F-FC54-47A7-885B-1F1D22602787}|TaskService\\TaskService.csproj|solutionrelative:taskservice\\taskservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A694956-6F67-47A3-9E57-E1B1D30B77CF}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\wwwroot\\assets\\css\\demo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\wwwroot\\assets\\css\\demo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\proje1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\proje1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB20F1A6-9316-4997-B4FF-19AA0BA4F0B0}|proje1\\proje1.csproj|solutionrelative:proje1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "proje1",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\proje1.csproj",
+              "RelativeDocumentMoniker": "proje1\\proje1.csproj",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\proje1.csproj",
+              "RelativeToolTip": "proje1\\proje1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T00:37:51.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AdminService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\appsettings.Development.json",
+              "RelativeToolTip": "AdminService\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T00:25:26.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\TaskService\\Data\\TaskContext.cs",
+              "RelativeDocumentMoniker": "TaskService\\Data\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\TaskService\\Data\\TaskContext.cs",
+              "RelativeToolTip": "TaskService\\Data\\TaskContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:35:49.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\TaskService\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "TaskService\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\TaskService\\Models\\Task.cs",
+              "RelativeToolTip": "TaskService\\Models\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:34:16.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\TaskService\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskService\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\TaskService\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskService\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:32:59.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskService.csproj",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\TaskService\\TaskService.csproj",
+              "RelativeDocumentMoniker": "TaskService\\TaskService.csproj",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\TaskService\\TaskService.csproj",
+              "RelativeToolTip": "TaskService\\TaskService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T23:32:31.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AdminService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Models\\User.cs",
+              "RelativeToolTip": "AdminService\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:01:46.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Services\\UserManagementService.cs",
+              "RelativeDocumentMoniker": "AdminService\\Services\\UserManagementService.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Services\\UserManagementService.cs",
+              "RelativeToolTip": "AdminService\\Services\\UserManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:54:27.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Program.cs",
+              "RelativeDocumentMoniker": "AdminService\\Program.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Program.cs",
+              "RelativeToolTip": "AdminService\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvzEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:51:08.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AdminService\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AdminService\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:50:57.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "AdminService\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "AdminService\\Repositories\\AdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:50:37.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Repositories\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "AdminService\\Repositories\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Repositories\\IAdminRepository.cs",
+              "RelativeToolTip": "AdminService\\Repositories\\IAdminRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:50:25.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\appsettings.json",
+              "RelativeDocumentMoniker": "AdminService\\appsettings.json",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\appsettings.json",
+              "RelativeToolTip": "AdminService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T22:49:58.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminContext.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Data\\AdminContext.cs",
+              "RelativeDocumentMoniker": "AdminService\\Data\\AdminContext.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\Data\\AdminContext.cs",
+              "RelativeToolTip": "AdminService\\Data\\AdminContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:49:47.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminService.csproj",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\AdminService.csproj",
+              "RelativeDocumentMoniker": "AdminService\\AdminService.csproj",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\AdminService\\AdminService.csproj",
+              "RelativeToolTip": "AdminService\\AdminService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T22:49:35.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "UserService\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:34:41.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAA9wD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:33:06.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "UserService\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:32:04.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:29:52.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T22:29:25.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\Data\\UserContext.cs",
+              "RelativeDocumentMoniker": "UserService\\Data\\UserContext.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\Data\\UserContext.cs",
+              "RelativeToolTip": "UserService\\Data\\UserContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:29:13.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\Models\\User.cs",
+              "RelativeToolTip": "UserService\\Models\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:28:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserService.csproj",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\UserService.csproj",
+              "RelativeDocumentMoniker": "UserService\\UserService.csproj",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\UserService\\UserService.csproj",
+              "RelativeToolTip": "UserService\\UserService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T22:26:52.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "demo.css",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\wwwroot\\assets\\css\\demo.css",
+              "RelativeDocumentMoniker": "proje1\\wwwroot\\assets\\css\\demo.css",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\wwwroot\\assets\\css\\demo.css",
+              "RelativeToolTip": "proje1\\wwwroot\\assets\\css\\demo.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T22:02:39.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "proje1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "proje1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T21:47:36.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Views\\Home\\Test.cshtml",
+              "RelativeDocumentMoniker": "proje1\\Views\\Home\\Test.cshtml",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Views\\Home\\Test.cshtml",
+              "RelativeToolTip": "proje1\\Views\\Home\\Test.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T21:44:55.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "proje1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "proje1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T21:35:25.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "proje1",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\proje1.csproj",
+              "RelativeDocumentMoniker": "proje1\\proje1.csproj",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\proje1.csproj",
+              "RelativeToolTip": "proje1\\proje1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T21:35:21.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\appsettings.json",
+              "RelativeDocumentMoniker": "proje1\\appsettings.json",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\appsettings.json",
+              "RelativeToolTip": "proje1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T21:35:13.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "proje1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "proje1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T21:33:11.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "proje1\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "proje1\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T21:30:34.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Program.cs",
+              "RelativeDocumentMoniker": "proje1\\Program.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Program.cs",
+              "RelativeToolTip": "proje1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:16:29.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "proje1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "proje1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T21:16:41.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "proje1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "proje1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:16:26.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "proje1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "proje1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T21:10:09.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "proje1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\emir_\\source\\repos\\proje1\\proje1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "proje1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:08:07.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
